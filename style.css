@@ -1,0 +1,10 @@
+button{
+    background-color: black;
+    color: white;
+    border-radius: 100%;
+    border: none;
+    padding: 15px;
+}
+.btn{
+    background-color: goldenrod;
+}
